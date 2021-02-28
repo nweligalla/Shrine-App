@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/home/nweligalla/Development/flutter"
-export "FLUTTER_APPLICATION_PATH=/home/nweligalla/Documents/flutter/material-components-flutter-codelabs/mdc_100_series"
+export "FLUTTER_APPLICATION_PATH=/mnt/6C8A26978A265E38/Dev/Flutter/shrine_app"
 export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
